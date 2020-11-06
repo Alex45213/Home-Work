@@ -1,0 +1,19 @@
+
+/* Дана переменная number.
+
+Напиши программу, которая выводит на экран квадрат этой переменной (number * number). */
+
+
+import java.util.Scanner;
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int number = scan.nextInt();
+
+        System.out.println(number*number);
+        //напишите тут ваш код
+
+    }
+
+}
