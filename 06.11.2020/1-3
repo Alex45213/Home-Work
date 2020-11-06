@@ -5,11 +5,12 @@
 
 
 public class Main {
-    int a =7;
-    int b =4;
+   
 
     public static void main(String[] args) {
-
+    String city Moscow;
+    int a =7;
+    int b =4;
 
     }
 
